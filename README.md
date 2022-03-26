@@ -1,4 +1,4 @@
-# Q-Learning
+# Q-Learning Implementation in Python
  Implementation of the Temporal Difference Learning algorithm called Q-Learning, from Reinforcement Learning. This is used to solve a Delivery Problem in a grid-world.
 
  ![Deliery Problem in a grid-world](https://github.com/seanie5011/Q-Learning/blob/main/TikzDelivery.png?raw=true)
